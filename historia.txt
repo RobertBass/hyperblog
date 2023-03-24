@@ -3,3 +3,5 @@ Este es un archivo plano de prueba
 Curso de Git en platzi
 
 Soy Roberto y tengo 37 anios, vivo en Guayaquil
+
+En camara parece alto, pero no es tan alto
